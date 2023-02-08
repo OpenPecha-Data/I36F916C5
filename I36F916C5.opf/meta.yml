@@ -1,0 +1,16 @@
+id: I36F916C5
+default_language: zh
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 14:48:41.353087
+last_modified: 2023-02-08 14:48:41.353200
+source_metadata:
+  title: Akṣayamatinirdeśa
+  language: zh
+bases:
+  660C:
+    base_file: 660C.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
